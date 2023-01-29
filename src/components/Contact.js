@@ -36,7 +36,7 @@ const Contact = () => {
                         <div className="contact-hello">
                             <p>Say Hello</p>
                             <Link className='hello-links' to="//wa.me/+916200391420" target='_blank'>wa.me/dhreetiman</Link>
-                            <Link className='hello-links' to="//mailto:pjinadu02@gmail.com" target='_blank'>dhreetiman09999@gmail.com</Link>
+                            <Link className='hello-links' to="//mailto:dhreetiman09999@gmail.com" target='_blank'>dhreetiman09999@gmail.com</Link>
                         </div>
                     </motion.div>
                     <motion.div className="right-box" initial={{opacity: 0, y: '50px'}} whileInView={verticalLeft}>
